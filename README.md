@@ -1,2 +1,2 @@
 # Natural_Language_Processing
-Hello_world
+Simple text analyzing
